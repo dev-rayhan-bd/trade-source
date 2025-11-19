@@ -5,7 +5,6 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
-.env.local
 # testing
 /coverage
 
@@ -39,3 +38,7 @@ package-lock.json
 pnpm-lock.yaml
 bun.lock
 yarn.lock
+config.bat
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
